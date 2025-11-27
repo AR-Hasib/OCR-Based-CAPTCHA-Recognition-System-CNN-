@@ -1,4 +1,4 @@
-# CAPTCHA Recognition Experiment 3
+# CAPTCHA Recognition
 
 ## Overview
 This project implements a complete CAPTCHA recognition pipeline as part of a university experiment. The process includes dataset generation, preprocessing, segmentation, labeling, model training, evaluation, and prediction using a Convolutional Neural Network (CNN).
@@ -59,3 +59,4 @@ This project implements a complete CAPTCHA recognition pipeline as part of a uni
 - Notebooks and scripts are named according to each step for clarity.
 
 ---
+
