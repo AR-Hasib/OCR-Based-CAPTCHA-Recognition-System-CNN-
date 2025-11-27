@@ -54,9 +54,6 @@ This project implements a complete CAPTCHA recognition pipeline as part of a uni
 ### 10. Summary and Conclusion
 - The task builds a complete CAPTCHA recognition pipeline: dataset creation → preprocessing → segmentation → labeling → CNN model → evaluation → prediction.
 
-## Folder Structure
-- All code, data, and results are organized in the `ex3` folder.
-- Notebooks and scripts are named according to each step for clarity.
-
 ---
+
 
